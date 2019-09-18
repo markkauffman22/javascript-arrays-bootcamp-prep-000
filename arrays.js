@@ -5,4 +5,7 @@ var chocolateBars = [
   'skittles'
 ] ;
 
-addElementToBeginningOfArray
+function addElementToBeginningOfArray(array) {
+  snot
+}
+
