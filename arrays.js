@@ -19,7 +19,8 @@ function addElementToEndOfArray(array, element) {
   return [...array, element];
 }
 
-function 
+function destructivelyAddElementToEndOfArray(array, element)
+  
 /*//////////////////////////////
 
  describe('addElementToEndOfArray(array, element)', () => {
