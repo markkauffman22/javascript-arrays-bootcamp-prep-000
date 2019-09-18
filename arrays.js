@@ -15,6 +15,10 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return array;
 }
 
+function addElementToBeginningOfArray(array, element) {
+  var newArray = [array, ...element];
+}
+
 /*//////////////////////////////
   describe('addElementToBeginningOfArray(array, element)', () => {
     it('adds an element to the beginning of an array', () => {
