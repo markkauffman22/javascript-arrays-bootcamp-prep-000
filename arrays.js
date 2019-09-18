@@ -30,11 +30,6 @@ function accessElementInArray(array, index) {
   
 /*//////////////////////////////
 
-  describe('accessElementInArray(array, index)', () => {
-    it('accesses the element in array at the given index', () => {
-      expect(accessElementInArray([1, 2, 3], 2)).to.equal(3)
-    })
-  })
   
   describe('destructivelyRemoveElementFromBeginningOfArray(array)', ()=>{
     it('returns the array with the first element removed', () => {
