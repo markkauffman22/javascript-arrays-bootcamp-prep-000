@@ -44,7 +44,7 @@ function removeElementFromEndOfArray(array) {
   return array.slice(0, array.length - 1)
 }
 
-function 
+
 /*//////////////////////////////
 describe('destructivelyRemoveElementFromEndOfArray(array)', () => {
     it('returns the array with the last element removed', () => {
