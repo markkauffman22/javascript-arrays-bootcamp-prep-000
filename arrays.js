@@ -19,6 +19,10 @@ function addElementToBeginningOfArray(array, element) {
   var newArray = [array, ...element];
 }
 
+function addElementToEndOfArray(array, element) {
+  var newArry = []
+}
+
 /*//////////////////////////////
 
  describe('addElementToEndOfArray(array, element)', () => {
